@@ -51,7 +51,7 @@ six==1.16.0
 stack-data==0.6.3
 statsmodels==0.14.0
 tenacity==8.2.3
-tornado==6.3.3
+tornado>=6.4.2
 traitlets==5.13.0
 tzdata==2023.3
 wcwidth==0.2.12
